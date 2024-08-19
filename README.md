@@ -1,4 +1,4 @@
-## Hi there I am Ghita Dounia  👋
+ ## Hi there I am Ghita Dounia 🍄 
 
 
   👩🏻‍💻 I am a Software Engineering student at the University of Ottawa, currently in my final year, graduating in December 2024.
