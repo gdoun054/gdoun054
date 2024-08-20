@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello My name is Ghita Dounia :
 👩🏻‍💻 I am a Software Engineering student at the [University of Ottawa](https://www.uottawa.ca/fr), graduating in December 2024.<br> <br>  🚀 I’m working as a Full Stack Web Developer at [Banque Nationale du Canada](https://www.bnc.ca) in an Agile environment.<br>  <br>  🌱 I’m currently learning advanced techniques in web development and exploring the latest trends in UI/UX design.<br>  <br>  💬 Ask me about frontend development, UI/UX design, coding best practices, or anything tech-related,<br>  <br>  😜 Fun fact: I'm passionate about both technology and the beauty industry, and I love finding creative ways to merge the two in my projects!<br>  <br>  🎯 2024/2025 Goals: Achieve AWS certifications.<br>
 
 <div align="center">
